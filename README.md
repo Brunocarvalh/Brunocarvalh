@@ -15,9 +15,7 @@ Where to find me:
 - [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosilvacpa@gmail.com)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_sc01/)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Brunocarvalh&show_icons=true&theme=dracula)
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocarvalh&layout=compact&langs_count=6&theme=dracula)
 
-![Visitantes](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitantes&query=value&url=https://api.countapi.xyz/hit/seu-usuario/Brunocarvalh)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Brunocarvalh&show_icons=true&theme=dracula)
 
