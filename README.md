@@ -2,7 +2,7 @@
 
 # Hi! I'am Bruno
 
-Bem-vindo ao meu perfil do GitHub! 
+Welcome to my GitHub profile!
 
 (Java|Mysql|C++) 🚀
 
